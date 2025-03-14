@@ -1,4 +1,4 @@
-## Hi there 👋
+### Привет! Меня зовут Анна и я развиваюсь в Java-разработке 👋
 
 <!--
 **somikaaaA/somikaaaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
