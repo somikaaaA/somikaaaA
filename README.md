@@ -6,11 +6,8 @@
   <a href="https://career.habr.com/somikaaa">
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://nn.hh.ru/resume/063a3293ff0e8695220039ed1f346c32546d66">
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="Headhunter Badge"/>
   </a>
 </div>
 
