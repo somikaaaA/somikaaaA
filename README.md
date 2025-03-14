@@ -1,8 +1,11 @@
 ### Привет! Меня зовут Анна и я развиваюсь в Java-разработке 👋
 
 ---
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc2dDh3OWZqM3k4bXl0N2ticjR0bGd2MHN4NDF2ZnJmNGN2N3o5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
+</div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://career.habr.com/somikaaa">
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
