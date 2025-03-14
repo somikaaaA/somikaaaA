@@ -1,5 +1,21 @@
 ### Привет! Меня зовут Анна и я развиваюсь в Java-разработке 👋
+
 ---
+
+<div id="badges">
+  <a href="https://career.habr.com/somikaaa">
+    <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+---
+
 ### :woman_technologist: Обо мне :
 - В 2025 закончила обучение на Java-разработчика в Яндекс Практикуме;
 - Имею проектный опыт разработки на Java, с моими проетами можно ознакомиться ниже;
