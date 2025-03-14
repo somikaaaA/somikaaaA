@@ -13,9 +13,9 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/Java-blue?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/PostgreSql-skyblue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql Badge"/>
-  <img src="https://img.shields.io/badge/Spring-palegreen?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
-  <img src="https://img.shields.io/badge/Hibernate-tan?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge"/>
-  <img src="https://img.shields.io/badge/JDBC-babyblue?style=for-the-badge&logo=jdbc&logoColor=white" alt="JDBC Badge"/>
+  <img src="https://img.shields.io/badge/Spring-seashel?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
+  <img src="https://img.shields.io/badge/Hibernate-bronze?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge"/>
+  <img src="https://img.shields.io/badge/JDBC-paleblue?style=for-the-badge&logo=jdbc&logoColor=white" alt="JDBC Badge"/>
   <img src="https://img.shields.io/badge/Spring-palegreen?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
   <img src="https://img.shields.io/badge/Spring-palegreen?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
   <img src="https://img.shields.io/badge/Spring-palegreen?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
