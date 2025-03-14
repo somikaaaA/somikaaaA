@@ -7,8 +7,14 @@
 
 Город: Нижний Новгород
 
---
+---
 
+### :hammer_and_wrench: Стек :
+<div id="badges">
+  <img src="https://img.shields.io/badge/Java-blue?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 <!--
 **somikaaaA/somikaaaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
