@@ -21,9 +21,8 @@
   <img src="https://img.shields.io/badge/Git-%25.svg?style=for-the-badge&logo=git&color=black"/>
   <img src="https://img.shields.io/badge/docker-%25?style=for-the-badge&logo=docker&color=gainsboro"/>
   <img src="https://img.shields.io/badge/JUnit-%25?style=for-the-badge&color=crimson"/>
-  <img src="https://img.shields.io/badge/Mock%25.svg?style=for-the-badge&logo=mock&color=red"/>
-  <img src="https://img.shields.io/badge/Postman-%25.svg?style=for-the-badge&logo=postman&color=moccasin"/>
-  <img src="https://img.shields.io/badge/Postman-%25.svg?style=for-the-badge&logo=postman&color=moccasin"/>
+  <img src="https://img.shields.io/badge/Maven-%25.svg?style=for-the-badge&logo=maven&color=orange"/>
+  <img src="https://img.shields.io/badge/Lombok%25.svg?style=for-the-badge&logo=lombok&color=moccasin"/>
 </div>
 <!--
 **somikaaaA/somikaaaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
