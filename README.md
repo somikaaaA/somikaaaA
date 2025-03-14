@@ -22,8 +22,17 @@
   <img src="https://img.shields.io/badge/docker-%25?style=for-the-badge&logo=docker&color=gainsboro"/>
   <img src="https://img.shields.io/badge/JUnit-%25?style=for-the-badge&color=crimson"/>
   <img src="https://img.shields.io/badge/Maven-%25.svg?style=for-the-badge&logo=maven&color=orange"/>
-  <img src="https://img.shields.io/badge/Lombok%25.svg?style=for-the-badge&logo=lombok&color=moccasin"/>
 </div>
+
+---
+
+### :zap: Мои проекты :
+- [ExploreWithMe - сервис для получения информации о событиях и участия в них](https://github.com/somikaaaA/java-explore-with-me)
+- [Filmorate - сервис для оценки и рекомендации фильмов](https://github.com/somikaaaA/java-filmorate)
+- [ShareIt - сервис для шеринга вещей](https://github.com/somikaaaA/java-shareit)
+
+---
+
 <!--
 **somikaaaA/somikaaaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
