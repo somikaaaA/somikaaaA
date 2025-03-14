@@ -12,8 +12,8 @@
 ### :hammer_and_wrench: Стек :
 <div id="badges">
   <img src="https://img.shields.io/badge/Java-blue?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/PostgreSql-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSql-skyblue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql Badge"/>
+  <img src="https://img.shields.io/badge/Spring-palegreen?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
 </div>
 <!--
 **somikaaaA/somikaaaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
